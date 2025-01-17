@@ -50,7 +50,13 @@ images = [
     {"name":"postgresql","logo":"postgresql.svg"},
     {"name":"postman","logo":"postman.svg"},
     {"name":"resend","logo":"resend.svg"},
-    {"name":"sass","logo":"sass.svg"}
+    {"name":"sass","logo":"sass.svg"},
+    {"name":"ubuntu","logo":"ubuntu.svg"},
+    {"name":"vitest","logo":"vitest,svg"},
+    {"name":"webpack","logo":"webpack.svg"},
+    {"name":"vitejs","logo":"vitejs.svg"}
+
+
 
 
 
