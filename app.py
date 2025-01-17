@@ -37,7 +37,23 @@ images = [
     {"name": "java", "logo": "java.svg"},
     {"name": "c", "logo": "c.svg"},
     {"name": "docker", "logo": "docker.svg"},
-    {"name": "prettier", "logo": "prettier.svg"}
+    {"name": "prettier", "logo": "prettier.svg"},
+    {"name":"Render","logo":"render.svg"},
+    {"name":"insomnia","logo":"insomnia.svg"},
+    {"name":"vim","logo":"vim.svg"},
+    {"name":"vscode","logo":"vscode.svg"},
+    {"name":"chatgpt","logo":"chatgpt.svg"},
+    {"name":"eslint","logo":"eslint.svg"},
+    {"name":"github-copilot","logo":"github-copilot.svg"},
+    {"name":"neovim","logo":"neovim.svg"},
+    {"name":"npm","logo":"npm.svg"},
+    {"name":"postgresql","logo":"postgresql.svg"},
+    {"name":"postman","logo":"postman.svg"},
+    {"name":"resend","logo":"resend.svg"},
+    {"name":"sass","logo":"sass.svg"}
+
+
+
     # Add more skills here
 ]
 
